@@ -1,0 +1,8 @@
+Sekcja t21 procesu o PID=29421
+Sekcja t31 procesu o PID=29422
+Sekcja t32 procesu o PID=29422
+Sekcja t22 procesu o PID=29421
+Sekcja t11 procesu o PID=29420
+Sekcja t12 procesu o PID=29420
+Sekcja t23 procesu o PID=29421
+Sekcja t33 procesu o PID=29422
